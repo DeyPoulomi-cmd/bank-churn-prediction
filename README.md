@@ -34,7 +34,6 @@ Results
 Contributing
 
 License
-
 ## Project Description
 
 The project uses machine learning techniques and neural networks to analyze a customer churn dataset. Key steps include:
@@ -51,7 +50,6 @@ Evaluating model performance on imbalanced data
 
 
 ## Tools & Technologies Used
-
 Languages: Python
 Libraries:
 
@@ -64,7 +62,6 @@ Machine Learning: TensorFlow, Keras, Scikit-learn
 Environment: Jupyter Notebook, Google Colab
 
 Version Control: GitHub
-
 ## Data Analysis
 
 Univariate Analysis: Understanding individual features like age, balance, credit score, and tenure.
@@ -83,7 +80,6 @@ Bivariate plots (Exited vs Features)
 Confusion Matrices
 
 Loss Curves
-
 ## Model Development
 
 Neural Network:
@@ -101,8 +97,7 @@ Evaluation:
 Loss curves for training and validation
 
 Confusion matrices for prediction results
-
-## How to Use
+## Deployment
 
 Prerequisites
 Install Python (3.8 or above)
@@ -127,6 +122,12 @@ Loss curves, confusion matrices, and data visualizations will be saved in the im
 
 
 
+
+
+
+
+
+
 ## Results
 
 Model Performance: The Neural Network achieved an accuracy of X% with room for improvement on imbalanced data.
@@ -135,8 +136,6 @@ Insights:
 Customers with low balance and high tenure are more likely to churn.
 
 Geography and Credit Score are significant factors influencing churn.
-
-
 ## Contributing
 
 Contributions are welcome!
@@ -148,17 +147,14 @@ Create a new branch: git checkout -b feature/YourFeatureName.
 Commit your changes and push: git commit -m "Add feature" > git push origin feature/YourFeatureName.
 
 Submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or feedback, please reach out:
 
 GitHub: DeyPoulomi-cmd
-
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
@@ -219,8 +215,67 @@ Most importantly, I realized that projects like these are not just about buildin
 
 
 
+## API Reference
+
+#### Get all items
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+
+## Authors
+
+- [@PoulomiDey](https://github.com/DeyPoulomi-cmd)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  pip install pandas numpy matplotlib seaborn tensorflow keras
+```
+
+Steps to Run the Code Clone the repository:
+
+git clone https://github.com/DeyPoulomi-cmd/bank-churn-prediction.git cd bank-churn-prediction
+
+Open Jupyter Notebook:
+
+Run Bank_Churn_Prediction_Full_code.ipynb to view and execute the code step by step. Visualize Results:
+
+Loss curves, confusion matrices, and data visualizations will be saved in the images/ folder.
 
 
 
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## 🔗 Links
+[![portfolio](https://github.com/DeyPoulomi-cmd)](https://github.com/DeyPoulomi-cmd)
+[![linkedin](https://www.linkedin.com/in/poulomi-d-209aa2218/)](https://www.linkedin.com/)
 
 
