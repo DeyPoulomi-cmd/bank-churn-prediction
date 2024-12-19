@@ -245,6 +245,9 @@ Run Bank_Churn_Prediction_Full_code.ipynb to view and execute the code step by s
 Loss curves, confusion matrices, and data visualizations will be saved in the images/ folder.
 
 
+Blinder:
+https://mybinder.org/v2/gh/DeyPoulomi-cmd/bank-churn-prediction/main?labpath=Bank_Churn_Prediction_Full_code.ipynb
+
 
 
 
