@@ -258,7 +258,7 @@ https://mybinder.org/v2/gh/DeyPoulomi-cmd/bank-churn-prediction/main?labpath=Ban
 
 ## 🔗 Links
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.ovh2.mybinder.org/user/deypoulomi-cmd--hurn-prediction-bz69ee2e/doc/tree/Bank_Churn_Prediction_Full_code.ipynb)
-[![portfolio](https://mygithub.org/badge_logo.svg)](https://github.com/DeyPoulomi-cmd)
-[![linkedin](https://mylinkedin.org/badge_logo.svg)](https://www.linkedin.com/)
+[![portfolio](https://github.org/badge_logo.svg)](https://github.com/DeyPoulomi-cmd)
+[![linkedin](https://linkedin.org/badge_logo.svg)](https://www.linkedin.com/)
 
 
