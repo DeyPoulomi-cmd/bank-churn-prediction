@@ -97,20 +97,6 @@ Evaluation:
 Loss curves for training and validation
 
 Confusion matrices for prediction results
-## Deployment
-
-Prerequisites
-Install Python (3.8 or above)
-
-Install required libraries using:
-
-pip install pandas numpy matplotlib seaborn tensorflow keras
-
-Steps to Run the Code
-Clone the repository:
-
-git clone https://github.com/DeyPoulomi-cmd/bank-churn-prediction.git
-cd bank-churn-prediction
 
 Open Jupyter Notebook:
 
@@ -118,13 +104,6 @@ Run Bank_Churn_Prediction_Full_code.ipynb to view and execute the code step by s
 Visualize Results:
 
 Loss curves, confusion matrices, and data visualizations will be saved in the images/ folder.
-
-
-
-
-
-
-
 
 
 
